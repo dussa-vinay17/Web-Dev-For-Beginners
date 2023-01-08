@@ -1,7 +1,7 @@
 {
-	"name": "web-dev-for-beginners",
+	"name": "web-dev-for-learners",
 	"version": "1.0.0",
-	"description": "Web Dev for Beginners - A Curriculum",
+	"description": "Web Dev for learners - A Curriculum",
 	"main": "index.js",
 	"scripts": {
 		"convert": "node_modules/.bin/docsify-to-pdf"
